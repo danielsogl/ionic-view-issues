@@ -9,7 +9,7 @@ https://github.com/driftyco/ionic-view-issues/issues/15
 ===== 
 Here you can open issues for Ionic View :)
 
-http://docs.ionic.io/v1.0/docs/view-usage
+http://docs.ionic.io/docs/view-usage
 
 
 
